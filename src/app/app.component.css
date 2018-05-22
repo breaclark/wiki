@@ -1,0 +1,60 @@
+*:not(#container) {
+  border: 1px solid black;
+}
+
+#container {
+  display: grid;
+  grid-template-rows: 40px 40px 80px 80px 800px 400px 200px 300px 200px 100px;
+  grid-template-columns: 150px 500px 500px;
+  grid-gap: 6px;
+}
+
+#sidebar {
+  grid-row-start: 1;
+  grid-row-end: 11;
+}
+
+#navbar {
+  grid-column-start: 2;
+  grid-column-end: 4;
+}
+
+#searchBar {
+  grid-column-start: 2;
+  grid-column-end: 4;
+}
+
+#policy {
+  grid-column-start:2;
+  grid-column-end: 4;
+}
+
+#welcome {
+  grid-column-start:2;
+  grid-column-end: 4;
+}
+
+#purple {
+  grid-column-start:2;
+  grid-column-end: 4;
+}
+
+#other {
+  grid-column-start:2;
+  grid-column-end: 4;
+}
+
+#sister {
+  grid-column-start:2;
+  grid-column-end: 4;
+}
+
+#languages {
+  grid-column-start:2;
+  grid-column-end: 4;
+}
+
+#footer {
+  grid-column-start: 2;
+  grid-column-end: 4;
+}
