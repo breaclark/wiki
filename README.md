@@ -1,6 +1,32 @@
 # Wiki
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0. It is a wikipedia clone using Angular.
+
+## Setup/Installation Requirements
+
+* Clone Repository
+* Run npm install
+* Run ng serve --open
+
+## Known Bugs
+
+No Known Bugs
+
+## Support and contact details
+
+Contact me at breatortilla@gmail.com
+
+## Technologies Used
+
+* HTML
+* CSS
+* Javascript
+* Typescript
+* Angular
+
+### License
+
+Copyright (c) 2018 **Brea Clark**
 
 ## Development server
 
